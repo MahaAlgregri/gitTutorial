@@ -19,6 +19,7 @@ public class SimpleJavaProject {
         System.out.println("Hello This CPIT251");
         //Add a message
         System.out.print("- Git Tutorial");
+        System.out.println("This is maha alharbi");
     }
     
 }
