@@ -17,6 +17,8 @@ public class SimpleJavaProject {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hello This CPIT251");
+        //Add a message
+        System.out.print("- Git Tutorial");
     }
     
 }
