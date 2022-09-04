@@ -18,9 +18,13 @@ public class SimpleJavaProject {
         // TODO code application logic here
         System.out.println("Hello This CPIT251");
         //Add a message
-        System.out.print("- Git Tutorial");
+        System.out.println("- Git Tutorial");
         System.out.println("This is maha alharbi");
-        System.out.print("I made the pull request");
+        System.out.println("I made the pull request");
+        for (int i = 0; i < 3; i++) {
+            System.out.println("The value of i= "+ i);
+            
+        }
     }
     
 }
