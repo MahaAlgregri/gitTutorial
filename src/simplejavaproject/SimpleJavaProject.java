@@ -25,6 +25,7 @@ public class SimpleJavaProject {
             System.out.println("The value of i= "+ i);
             
         }
+        System.out.println("THE END");
     }
     
 }
