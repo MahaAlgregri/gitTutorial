@@ -26,6 +26,7 @@ public class SimpleJavaProject {
             
         }
         System.out.println("THE END");
+        System.out.println("THE END2");
     }
     
 }
