@@ -20,6 +20,7 @@ public class SimpleJavaProject {
         //Add a message
         System.out.print("- Git Tutorial");
         System.out.println("This is maha alharbi");
+        System.out.print("I made the pull request");
     }
     
 }
