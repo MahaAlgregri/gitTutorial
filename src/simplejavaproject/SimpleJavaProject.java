@@ -21,6 +21,7 @@ public class SimpleJavaProject {
         System.out.print("- Git Tutorial");
         System.out.println("This is maha alharbi");
         System.out.print("I made the pull request");
+        System.out.print("Section B8B");
     }
     
 }
